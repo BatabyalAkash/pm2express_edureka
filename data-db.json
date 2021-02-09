@@ -1,0 +1,37 @@
+[
+   {
+      "id": "322164861adfa53a1a1",
+      "name": "Black Panther",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+   },
+   
+   {
+      "id": "fejfafaf654fafaef4a6fa",
+      "name": "The Notebook",
+      "language": "ENGLISH",
+      "rate": 3.8,
+      "type": "ROMANTIC COMEDY DRAMA",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+   },
+
+   {
+      "id": "adwda64565awdwa6d4",
+      "name": "Tomorrowland",
+      "language": "ENGLISH",
+      "rate": 3.5,
+      "type": "SCI-FI COMEDY",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+   },
+
+   {
+      "id": "adwfs566456adwrfasww",
+      "name": "Taxi Driver",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "DRAMA NEO-NOIR",
+      "imageUrl": "https://image.ibb.co/f0hhZc/bp.jpg"
+   }
+]
